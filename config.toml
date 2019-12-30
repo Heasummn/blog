@@ -31,5 +31,5 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Blog"
+      logoText = "Hassam Uddin"
       logoHomeLink = "/"
