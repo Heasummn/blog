@@ -2,9 +2,10 @@
 title: "Writing a Compiler: Crab"
 date: 2019-12-20T4:35:00
 slug: "crab-compiler"
-draft: true 
+draft: false 
 tags: ["compilers", "projects"]
 categories: ["projects"]
+description: "Reflections on writing a complete, finished compiler in OCaml"
 ---
 
 The purpose of this blog is to write about some of the various projects I've done as I've progressed in my learning. It is mostly for myself so that I can remember all the challenges I have faced and have some documentation of the things I've done. So let's get started. 
